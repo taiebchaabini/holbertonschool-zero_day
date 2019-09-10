@@ -1,3 +1,1 @@
-# Holberton School	
-## *This is my first project for Holberton School*
-[Holberton School Website](https://holbertonschool.com)
+#*I'm now a Holberton Student, this is my first repository as a full-stack engineer*
