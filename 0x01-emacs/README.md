@@ -1,1 +1,1 @@
-0x01-emacs
+This is EMACS project
