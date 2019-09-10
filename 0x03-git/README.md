@@ -1,1 +1,1 @@
-*This is my GIT project !*
+*HELLO ! This is my GIT project !*
